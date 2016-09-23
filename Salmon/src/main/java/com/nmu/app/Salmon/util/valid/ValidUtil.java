@@ -109,19 +109,4 @@ public class ValidUtil {
 		}
 		return num==ca.length?true:false;
 	}
-	
-//	@Test
-//	public void test(){
-//		String[] s={"ssss"};
-//		List l=new ArrayList<String>(); 
-//		Map m=new HashMap<String, String>();
-//		System.out.println(isBlank(m));
-//		
-//		
-//	}
-//	@Test
-//	public void test1(){
-//		String s="  \t\t A ";
-//		System.out.println(IsLineBlank(s));
-//	}
 }
